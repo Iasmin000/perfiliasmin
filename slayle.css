@@ -1,0 +1,27 @@
+
+        body{
+     background-color: (239, 240, 227)
+        }
+
+      #imagem {
+    
+       text-align: center;
+              } 
+     p.uppercase {
+      text-transform: uppercase;
+      }  
+     div.a {
+     font-size: 20px;
+     }
+     body {
+     color: rgba black;
+     }
+     div.b {
+      text-align: center;
+     }
+     table, th, td {
+     border: 1px solid black;
+     border-radius: 10%;
+     }
+
+    
