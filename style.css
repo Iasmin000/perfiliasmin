@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(215, 248, 225)
+    background-color: rgb(248, 215, 235)
        }
 
      #imagem {
@@ -7,7 +7,7 @@ body{
       text-align: center;
              } 
 th{
-    color:rgb(105, 75, 161)
+    color:rgb(13, 109, 153)
 }
     table, th, td {
     border: 1px solid black;
