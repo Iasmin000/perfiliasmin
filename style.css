@@ -31,8 +31,9 @@ body{
     */
     
      th {
-        text-align: center;
+        
         color: #c26861;
+        text-align: center;
     }
     .formularioa{
         font-size: 18px;
