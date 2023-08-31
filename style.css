@@ -34,8 +34,17 @@ body{
         text-align: center;
         color: rgba #c26861;
     }
-    .z{
+    .formularioa{
         font-size: 18px;
         color: rgba #006600;
       
+    }
+     .formulariob{
+        font-size: 18px;
+         color: rgb #00ff
+    }
+
+        .formularioc{
+            font-size: 19px;
+            color: rgb #ff9900
     }
