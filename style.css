@@ -6,7 +6,9 @@ body{
    
       text-align: center;
              } 
-
+th{
+    color:rgb(218, 18, 168)
+}
     table, th, td {
     border: 1px solid black;
     border-radius: 10%;
