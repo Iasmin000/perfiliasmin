@@ -25,6 +25,25 @@ th{
     border: 1px solid black;
     border-radius: 10%;
     }
+    .color a{
+      color: #006600;
+    }
+    .color b{
+      color:#0000ff
+    }
+    .color c{
+      color:#ff9900;
+    
+    }
+    .primeiro{
+      color:#006600
+    }
+    .segundo{
+      color:#0000ff
+    }
+    .terceiro{
+      color:#ff9900
+    }
     figure {
         border: 1px #cccccc solid;
         padding: 4px;
