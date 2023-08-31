@@ -30,9 +30,7 @@ body{
     }
     */
     
-     .th{
-        text-transform: uppercase;
-        font-weight: bold;
+     th {
         text-align: center;
         color: #c26861;
     }
