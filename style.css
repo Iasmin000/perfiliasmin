@@ -48,6 +48,7 @@ th{
       color:#ff1a88;
     }
     figure {
+       text-align: center;
         border: 1px #cccccc solid;
         padding: 4px;
         margin: auto;
