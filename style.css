@@ -1,6 +1,6 @@
 body{
   font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(248, 233, 242)
+    background-color: rgb(255,192,203)
     
     
        }
@@ -18,7 +18,7 @@ body{
 th{
   font-weight: bold;
   text-align: center;
-    color:rgb #c26861
+    color:rgb #DDA0DD
     
 }
     table, th, td {
@@ -26,26 +26,26 @@ th{
     border-radius: 10%;
     }
     .color a{
-      color: #006600;
+      color: #FF69B4;
     }
     .color b {
-      color:#0000ff
+      color:#AFEEEE;
     }
     .color c {
-      color:#ff9900;
+      color:#EE82EE;
     
     }
     .primeiro{
       
-      color:#006600
+      color:#FF69B4;
     }
     .segundo{
       
-      color:#0000ff
+      color:#AFEEEE;
     }
     .terceiro{
       
-      color:#ff9900
+      color:#EE82EE
     }
     figure {
         border: 1px #cccccc solid;
@@ -65,7 +65,7 @@ th{
         left: 0;
         bottom: 0;
         width: 100%;
-        background-color: red;
+        background-color: rgb(248, 136, 205);
         color: white;
         text-align: center;
      }
@@ -83,7 +83,7 @@ th{
     }
     
     tr{
-      background-color: red;
+      background-color: rgb(238, 165, 214);
     }
     td{
       background-color: #f0f0f0;
