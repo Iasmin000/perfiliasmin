@@ -1,6 +1,6 @@
 body{
   font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb #e4b4cb;
+    background-color: rgb(255, 204, 229)
     
     
        }
@@ -18,7 +18,7 @@ body{
 th{
   font-weight: bold;
   text-align: center;
-    color:rgb #ee82b8
+    color:rgb #ff4da3;
     
 }
     table, th, td {
@@ -26,26 +26,26 @@ th{
     border-radius: 10%;
     }
     .color a{
-      color: #f14c9f;
+      color: #ff007b;
     }
     .color b {
-      color:#e24f99;
+      color:#ff80bd;
     }
     .color c {
-      color:#f056a3;
+      color:#ff1a88;
     
     }
     .primeiro{
       
-      color:#f14c9f;
+      color:#ff007b;
     }
     .segundo{
       
-      color:#e24f99;
+      color:#ff80bd;
     }
     .terceiro{
       
-      color:#f056a3;
+      color:#ff1a88;
     }
     figure {
         border: 1px #cccccc solid;
@@ -65,7 +65,7 @@ th{
         left: 0;
         bottom: 0;
         width: 100%;
-        background-color: rgb #FF69B4;
+        background-color: #ffcce4;
         color: white;
         text-align: center;
      }
@@ -83,7 +83,7 @@ th{
     }
     
     tr{
-      background-color: rgb #f37db8;
+      background-color: #ff99c9;
     }
     td{
       background-color: #f0f0f0;
