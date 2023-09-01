@@ -65,7 +65,7 @@ th{
         left: 0;
         bottom: 0;
         width: 100%;
-        background-color: #ff99c9;
+        background-color: #ff66a8;
         color: white;
         text-align: center;
      }
@@ -83,8 +83,9 @@ th{
     }
     
     tr{
-      background-color: #ff66a8;
+      background-color: #ff99c9;
     }
     td{
       background-color: #f0f0f0;
     }
+    
