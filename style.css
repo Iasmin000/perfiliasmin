@@ -18,7 +18,7 @@ body{
 th{
   font-weight: bold;
   text-align: center;
-    color:rgb(13, 109, 153)
+    color:rgb #c26861
     
 }
     table, th, td {
@@ -59,7 +59,8 @@ th{
         font-style: italic;
         padding: 2px;
         text-align: center;
-      }.footer {
+      }
+      .footer {
         position: fixed;
         left: 0;
         bottom: 0;
@@ -68,3 +69,22 @@ th{
         color: white;
         text-align: center;
      }
+     table{
+      width: 100%;
+      margin-bottom : .5em;
+      table-layout: fixed;
+      text-align: center;
+    }
+  td, th {
+      padding: .7em;
+      margin: 0;
+      /*border: 1px solid #ccc;*/
+      text-align: center;
+    }
+    
+    tr{
+      background-color: red;
+    }
+    td{
+      background-color: #f0f0f0;
+    }
