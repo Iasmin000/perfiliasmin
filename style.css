@@ -15,6 +15,9 @@ body{
         color: black
 
              }
+          .x{
+            text-align: center; 
+          }   
 th{
   font-weight: bold;
   text-align: center;
