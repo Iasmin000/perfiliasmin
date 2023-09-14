@@ -92,4 +92,11 @@ th{
     td{
       background-color: #f0f0f0;
     }
+    .k{
+      width: 300px;
+      height: 300px;
+      border: 15px solid #e6005c;
+      padding: 50px;
+      margin: 20px;
+    }
     
