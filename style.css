@@ -93,11 +93,11 @@ th{
       background-color: #f0f0f0;
     }
     .k{
-      width: 300px;
+      width: 220px;
       height: 100px;
-      border: 15px solid #ff66a3;
+      border: 2px solid #ff66a3;
       padding: 50px;
-      margin: 20px;
+      margin: 20px auto;
     }
     .z{
       text-align: center;
