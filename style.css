@@ -102,9 +102,9 @@ th{
     .z{
       text-align: center;
     }
-    .x{
-      width: 220px;
-      height: 300px;
+    .l{
+      width: 300px;
+      height: 400px;
       border: 1px solid black;
       padding: 50px;
       margin: 20px auto;
