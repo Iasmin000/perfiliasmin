@@ -102,3 +102,14 @@ th{
     .z{
       text-align: center;
     }
+    .x{
+      width: 220px;
+      height: 300px;
+      border: 1px solid black;
+      padding: 50px;
+      margin: 20px auto;
+    }
+    .j{
+      text-align: center;
+    }
+    
